@@ -54,50 +54,420 @@ There will be two in-class exams. They are scheduled before Lec #15 and Lec #25 
 In-class Presentations
 ----------------------
 
-There will be two types of presentations - short in-class presentations (< 3min, one PowerPoint slide) of an interesting practical application of the topic covered in the previous lecture and a final presentation (20min slides, 10min Q&A) predicting future developments of each major type of transportation covered (road, water, rail, air).
+There will be two types of presentations - short in-class presentations (\< 3min, one PowerPoint slide) of an interesting practical application of the topic covered in the previous lecture and a final presentation (20min slides, 10min Q&A) predicting future developments of each major type of transportation covered (road, water, rail, air).
 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework and class work breakdown: | 45% |
-| In-lecture quizzes - 5% |
-| Psets - 30% |
-| In-class presentations - 5% |
-| Class participation - 5% |
-| Two exams | 40% (both) |
-| Final presentation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework and class work breakdown:
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-lecture quizzes - 5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Psets - 30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class presentations - 5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation - 5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two exams
+{{< tdclose >}}
+{{< tdopen >}}
+40% (both)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction - Energy in Transportation | &nbsp; |
-| 2 | Energy & Thermodynamics | PS 1 due |
-| 3 | Internal Combustion Engines I | &nbsp; |
-| 4 | Internal Combustion Engines II | &nbsp; |
-| 5 | Road Vehicle Engineering & Components I (Vehicle Dynamics, Powertrain & Components) | &nbsp; |
-| 6 | Road Vehicle Engineering & Components II | PS 2 due |
-| 7 | Electric & Hybrid Vehicles I (Consumer Electric Vehicles) | &nbsp; |
-| 8 | Electric & Hybrid Vehicles II | &nbsp; |
-| 9 | Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Fossil Fuel Rail) | &nbsp; |
-| 10 | Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Electric Rail) | &nbsp; |
-| 11 | Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Urban & High Speed Rail) | PS 3 due |
-| 12 | Water Transport: History, Vessels, Port Operations (Water Transport History) | &nbsp; |
-| 13 | Water Transport: History, Vessels, Port Operations (Water Transport: Vessels) | &nbsp; |
-| 14 | Water Transport: History, Vessels, Port Operations (Port Operations) | &nbsp; |
-| 15 | Review | &nbsp; |
-| 16 | Exam 1 | &nbsp; |
-| 17 | Aircraft Types | &nbsp; |
-| 18 | Fixed-Wing Aircraft Aerodynamics I | &nbsp; |
-| 19 | Fixed-Wing Aircraft Aerodynamics II | PS 4 due |
-| 20 | Aircraft Engines | &nbsp; |
-| 21 | Helicopters | &nbsp; |
-| 22 | Radar | &nbsp; |
-| 23 | Exam 2 | &nbsp; |
-| 24 | Navigation Module (Navigation) | &nbsp; |
-| 25 | Navigation Module (Global Positioning System GPS) | &nbsp; |
-| 26 | Navigation Module (Global Information System GIS) | &nbsp; |
-| 27 | Navigation Module (Modern Mapping Techniques) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - Energy in Transportation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Energy & Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+PS 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Internal Combustion Engines I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Internal Combustion Engines II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Road Vehicle Engineering & Components I (Vehicle Dynamics, Powertrain & Components)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Road Vehicle Engineering & Components II
+{{< tdclose >}}
+{{< tdopen >}}
+PS 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Electric & Hybrid Vehicles I (Consumer Electric Vehicles)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Electric & Hybrid Vehicles II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Fossil Fuel Rail)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Electric Rail)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Rail Transport: Fossil Fuel, Electric, Urban & High-Speed (Urban & High Speed Rail)
+{{< tdclose >}}
+{{< tdopen >}}
+PS 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Water Transport: History, Vessels, Port Operations (Water Transport History)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Water Transport: History, Vessels, Port Operations (Water Transport: Vessels)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Water Transport: History, Vessels, Port Operations (Port Operations)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft Types
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed-Wing Aircraft Aerodynamics I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed-Wing Aircraft Aerodynamics II
+{{< tdclose >}}
+{{< tdopen >}}
+PS 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft Engines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Helicopters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Radar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Navigation Module (Navigation)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Navigation Module (Global Positioning System GPS)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Navigation Module (Global Information System GIS)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Navigation Module (Modern Mapping Techniques)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
